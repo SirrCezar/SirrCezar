@@ -1,6 +1,6 @@
 # Olá, me chamo Ronaldo 👋
 
-### 🚀 Desenvolvedor(a) [Sua Especialidade] | Apaixonado(a) por Tecnologia e Soluções Criativas
+### 🚀 Desenvolvedor Back-End | Apaixonado(a) por Tecnologia, Soluçoes Criativas e Dados
 
 Sou um desenvolvedor focado em construir interfaces e sistemas robustos, combinando minha paixão por design e código para criar experiências de usuário excepcionais. Sou viciado em novas tecnologias e sempre gosto de aprender algo novo
 

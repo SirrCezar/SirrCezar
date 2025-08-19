@@ -1,6 +1,6 @@
 # Olá, me chamo Ronaldo 👋
 
-### 🚀 Desenvolvedor Back-End | Apaixonado(a) por Tecnologia e Soluções Criativas
+### 🚀 Desenvolvedor(a) [Sua Especialidade] | Apaixonado(a) por Tecnologia e Soluções Criativas
 
 Sou um desenvolvedor focado em construir interfaces e sistemas robustos, combinando minha paixão por design e código para criar experiências de usuário excepcionais. Sou viciado em novas tecnologias e sempre gosto de aprender algo novo
 
@@ -29,8 +29,20 @@ Sou um desenvolvedor focado em construir interfaces e sistemas robustos, combina
 
 ### 📊 Minhas Estatísticas no GitHub:
 
-![Estatísticas de Ronaldo no GitHub](https://github-readme-stats.vercel.app/api?username=SirrCezar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SirrCezar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<p align="center">
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirrCezar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SirrCezar&layout=compact&langs_count=7&theme=dracula)
+</p>
